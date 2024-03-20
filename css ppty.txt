@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+        <nav class="navebar">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Resources</a>
+            <a href="#">Contact Us</a>
+        </nav>
+
+        <header><h1>TechWorld</h1></header>
+        <h3>Technology</h3>
+        <p>
+            Technology is the application of conceptual knowledge for achieving practical goals, especially in a reproducible way.The word technology can also mean the products resulting from such efforts, including both tangible tools such as utensils or machines, and intangible ones such as software. Technology plays a critical role in science, engineering, and everyday life.
+        </p>
+        <p class="p1>">Technological advancements have led to significant changes in society. The earliest known technology is the stone tool, used during prehistoric times, followed by the control of fire, which contributed to the growth of the human brain and the development of language during the Ice Age. The invention of the wheel in the Bronze Age allowed greater travel and the creation of more complex machines. More recent technological inventions, including the printing press, telephone, and the Internet, have lowered barriers to communication and ushered in the knowledge economy.</p>
+        <h3 class="first">Etymology</h3>
+        <p>Technology is a term dating back to the early 17th century that meant 'systematic treatment' (from Greek Τεχνολογία, from the Greek: τέχνη, romanized: tékhnē, lit. 'craft, art' and -λογία, 'study, knowledge').It is predated in use by the Ancient Greek word tékhnē, used to mean 'knowledge of how to make things', which encompassed activities like architecture.</p>
+        
+        <h3>Prehistoric</h3>
+        <div class="container">
+            <p>Tools were initially developed by hominids through observation and trial and error.Around 2 Mya (million years ago), they learned to make the first stone tools by hammering flakes off a pebble, forming a sharp hand axe.This practice was refined 75 kya (thousand years ago) into pressure flaking, enabling much finer work.</p>
+
+        </div>
+
+        <div>
+            <p class="p3">Ethics</p>
+        </div>
+
+        <div>
+            <h3>Picture</h3>
+            <img class="img1" src="tech.png">
+        </div>
+
+        <div>
+            <p class="p4">Technology and Society</p>
+        </div>
+
+        <div>
+            <p class="p5">Emerging Technologies</p>
+        </div>
+
+        <div>
+            <h3>History</h3>
+            <div class="clearfix">
+                <div class="column" style="background-color:lightgreen;">
+                    Modern
+                </div>
+                <div class="column" style="background-color:lightslategray;">
+                    Pre-Modern
+                </div>
+
+                <div>
+                    <h3>Relation to science and engineering</h3>
+                    <p class="box flex-container">Engineering is the process by which technology is developed. It often requires problem-solving under strict constraints.Technological development is "action-oriented", while scientific knowledge is fundamentally explanatory.Polish philosopher Henryk Skolimowski framed it like so: "science concerns itself with what is, technology with what is to be.</p>
+                </div>
+                <div class="grid-container">
+                    <div class="grid-item">Bright green environmentalism</div>
+                    <div class="grid-item">Raw material</div>
+                    <div class="grid-item">Ecomodernism</div>
+                    <div class="grid-item">Tech ed</div>
+                    <div class="grid-item">Instrumentation</div>
+                    <div class="grid-item">Resource</div>
+                </div>
+
+                <div>
+                    <h3>Emerging technologies</h3>
+                    <div class="box column" style="background-color:gold">Emerging technologies are novel technologies whose development or practical applications are still largely unrealized. They include nanotechnology, biotechnology, robotics, 3D printing, blockchains, and artificial intelligence.
+                </div>
+
+                <center><a href="#" class="btn">Home</a></center>
+
+</body>
+</html>
